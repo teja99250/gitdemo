@@ -41,4 +41,4 @@ def main():
             print(f"PR #{pr['number']} - {pr['title']}")
 
 if __name__ == "__main__":
-    main()
+    main(false)
